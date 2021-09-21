@@ -1,0 +1,17 @@
+{
+    "name": "image/size",
+    "autoload": {
+        "psr-4": {
+            "Image\\Size\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dorcentclash9",
+            "email": "dorcentclash9@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.6"
+    }
+}
